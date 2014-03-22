@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.ninjaprawn.easyspring.prowidgets</string>
+	<key>NSPrincipalClass</key>
+	<string>PWWidgetEasySpring</string>
+	<key>PWInfoType</key>
+	<string>widget</string>
+	<key>PWInfoDisplayName</key>
+	<string>EasySpring</string>
+	<key>PWInfoAuthor</key>
+	<string>Ninjaprawn</string>
+	<key>PWInfoDescription</key>
+	<string>EasySpring for ProWidgets. Get the original version from the BigBoss repo!</string>
+	<key>PWInfoShortDescription</key>
+	<string>EasySpring for ProWidgets.</string>
+</dict>
+</plist>

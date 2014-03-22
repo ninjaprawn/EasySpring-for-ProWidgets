@@ -1,0 +1,8 @@
+Package: com.ninjaprawn.easyspring.prowidgets
+Name: EasySpring
+Depends: cc.tweak.prowidgets, firmware (>= 7.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Widget template for ProWidgets
+Author: Ninjaprawn
+Section: Addons (ProWidgets)
